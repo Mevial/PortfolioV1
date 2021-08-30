@@ -15,8 +15,7 @@ const Footer = () => {
                         <div className={style.footer_item}>3</div>
                         <div className={style.footer_item}>4</div>
                     </div>
-
-                    <div className={style.copyright}>©2021 Все права защищены</div>
+                    <div className={style.copyright}>©2021 All rights reserved.</div>
                 </div>
             </div>
 
