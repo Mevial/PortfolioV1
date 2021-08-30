@@ -1,0 +1,14 @@
+.employBlock {
+    background-color: #d5c79d;
+}
+
+.employContainer{
+ flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+.title {
+    background-color: #eeeef5;
+}
+
